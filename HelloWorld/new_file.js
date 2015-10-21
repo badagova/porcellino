@@ -1,2 +1,2 @@
-alert("Hello world!");
+alert("Hello brave world!");
 confirm("Are you sure?");
